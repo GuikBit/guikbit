@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guikbit&repo=Angular-Odonto&theme=holi)](https://github.com/GuikBit/Angular-Odonto)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guikbit&repo=Api-Odonto)](https://github.com/GuikBit/API-Odonto)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guikbit&repo=Mobile-Odonto)](https://github.com/GuikBit/Mobile-Odonto)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guikbit&repo=guikbit.github.io)](https://github.com/GuikBit/guikbit.github.io)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guikbit&repo=Api-Odonto&theme=holi)](https://github.com/GuikBit/API-Odonto)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guikbit&repo=Mobile-Odonto&theme=holi)](https://github.com/GuikBit/Mobile-Odonto)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guikbit&repo=guikbit.github.io&theme=holi)](https://github.com/GuikBit/guikbit.github.io)
 ![Snake animation](https://github.com/GuikBit/GuikBit/blob/gh-pages/github-snake-dark.svg)
 <!--
 **GuikBit/GuikBit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
