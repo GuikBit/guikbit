@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Snake animation](https://github.com/GuikBit/GuikBit/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/GuikBit/GuikBit/blob/gh-pages/github-contribution-grid-snake.svg)
 <!--
 **GuikBit/GuikBit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
