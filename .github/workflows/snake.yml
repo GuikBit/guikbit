@@ -4,21 +4,31 @@ on:
   schedule:
     - cron: "* */12 * * *"  # Executa a cada 12 horas
   workflow_dispatch:
-
+  
+  push:
+    branches:
+    - master
+    
 jobs:
-  build:
-    name: Jobs to update datas
+  generate:
+    permissions: 
+      contents: write
     runs-on: ubuntu-latest
+    timeout-minutes: 5
+    
     steps:
-      # Snake Animation
-      - uses: Platane/snk@master
-        id: snake-gif
+      # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
+      - name: generate github-contribution-grid-snake.svg
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: guikbit
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       # Deploy to GitHub Pages
-      - uses: crazy-max/ghaction-github-pages@v3.1.0  # Atualizar para a versão mais recente
+      - name: push github-contribution-grid-snake.svg to the gh-pages branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0  # Atualizar para a versão mais recente
         with:
           target_branch: gh-pages  # Verifique se o branch de destino é correto
           build_dir: dist
