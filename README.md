@@ -5,7 +5,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guikbit&repo=Mobile-Odonto&theme=holi)](https://github.com/GuikBit/Mobile-Odonto)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guikbit&repo=guikbit.github.io&theme=holi)](https://github.com/GuikBit/guikbit.github.io)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guikbit&layout=compact)](https://github.com/GuikBit/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guikbit&layout=compact&theme=holi)](https://github.com/GuikBit/)
 
 ![Snake animation](https://github.com/GuikBit/GuikBit/blob/gh-pages/github-snake-dark.svg)
 <!--
