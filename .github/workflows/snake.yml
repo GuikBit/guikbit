@@ -18,13 +18,13 @@ jobs:
     
     steps:
       # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
-      - uses: Platane/snk@master
-        id: snake-gif
+      - uses: Platane/snk@v3
         with:
-          github_user_name: guikbit
-          gh-pages: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
       # Deploy to GitHub Pages
       - uses: crazy-max/ghaction-github-pages@v4.0.0  # Atualizar para a versão mais recente
