@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guikbit&repo=Angular-Odonto)](https://github.com/GuikBit/Angular-Odonto)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guikbit&repo=Angular-Odonto?bg_color=#161B22)](https://github.com/GuikBit/Angular-Odonto)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guikbit&repo=Api-Odonto)](https://github.com/GuikBit/API-Odonto)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guikbit&repo=Mobile-Odonto)](https://github.com/GuikBit/Mobile-Odonto)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guikbit&repo=guikbit.github.io)](https://github.com/GuikBit/guikbit.github.io)
