@@ -1,10 +1,10 @@
 ## Hi there 👋
-<div align="center">
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guikbit&repo=Angular-Odonto&theme=holi)](https://github.com/GuikBit/Angular-Odonto)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guikbit&repo=Api-Odonto&theme=holi)](https://github.com/GuikBit/API-Odonto)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guikbit&repo=Mobile-Odonto&theme=holi)](https://github.com/GuikBit/Mobile-Odonto)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guikbit&repo=guikbit.github.io&theme=holi)](https://github.com/GuikBit/guikbit.github.io)
-<div>
+
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
