@@ -1,4 +1,4 @@
-## Hi there 👋
+##   👋
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guikbit&repo=Angular-Odonto&theme=holi)](https://github.com/GuikBit/Angular-Odonto)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guikbit&repo=Api-Odonto&theme=holi)](https://github.com/GuikBit/API-Odonto)
@@ -6,7 +6,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guikbit&repo=guikbit.github.io&theme=holi)](https://github.com/GuikBit/guikbit.github.io)
 
 <div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
@@ -21,6 +21,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  
 </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guikbit&layout=compact&theme=holi)](https://github.com/GuikBit/)
