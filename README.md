@@ -39,8 +39,10 @@ O ecossistema OdontoSync também está ao seu alcance com um aplicativo móvel, 
   <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="GitLab" alt="GitLab" width="40" height="40"/>&nbsp;
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guikbit&layout=compact&theme=holi)](https://github.com/GuikBit/)
+
 <!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guikbit&layout=compact&theme=holi)](https://github.com/GuikBit/)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guikbit&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guikbit&layout=compact&theme=radical)
