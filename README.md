@@ -1,16 +1,30 @@
 ##   👋
 
-## 🚀 Projetos Pessoais
+# Angular-Odonto
 
-### [Angular-Odonto](https://github.com/GuikBit/Angular-Odonto)
-Este projeto é parte do ecossistema OdontoSync, representando a sua identidade visual no Front-End. Desenvolvido com uma interface moderna e intuitiva, ele permite que você realize todas as operações internas do consultório de forma rápida e eficiente, com apenas alguns cliques.
+![OdontoSync Logo](https://link-para-logo.com/logo.png) <!-- Logo do projeto -->
 
-**Tecnologias utilizadas**
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" title="Angular" alt="Angular" width="25" height="25"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="25" height="25"/>&nbsp;
-  <img src="https://www.primefaces.org/presskit/primeng-logo.png" title="PrimeNg" alt="PrimeNg" width="25" height="25"/>&nbsp;
-</div>
+Este projeto é parte do ecossistema **OdontoSync**, representando sua identidade visual no Front-End. Desenvolvido com uma interface moderna e intuitiva, ele permite realizar todas as operações internas do consultório de forma **rápida** e **eficiente**, com apenas alguns cliques.
+
+## 🌟 Funcionalidades
+- 💻 **Interface intuitiva**: Navegação simples para facilitar o uso diário.
+- 🚀 **Desempenho otimizado**: Respostas rápidas para todas as operações.
+- 🔒 **Segurança**: Garantimos a proteção dos dados sensíveis dos pacientes.
+
+## 🛠 Tecnologias utilizadas
+<p align="left">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/primeng/primeng-original.svg" title="PrimeNG" alt="PrimeNG" width="40" height="40"/>&nbsp;
+</p>
+
+## 📚 Documentação
+- Para mais detalhes, consulte a [Documentação Completa](https://link-da-documentacao.com).
+
+## 📸 Imagem da Interface
+![Interface Preview](https://link-para-imagem.com/interface.png)
+
+
 
 ### [API-Odonto](https://github.com/GuikBit/API-Odonto)
 Este projeto é a espinha dorsal do ecossistema OdontoSync, oferecendo a robustez e eficiência necessárias para o gerenciamento completo do sistema. Com uma arquitetura moderna e escalável, garantindo uma integração fluida tanto com a web quanto com dispositivos móveis, atendendo dentistas e pacientes.
