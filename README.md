@@ -15,7 +15,7 @@ Este projeto é parte do ecossistema **OdontoSync**, representando sua identidad
 <p align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="35" height="35"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/primeng/primeng-original.svg" title="PrimeNG" alt="PrimeNG" width="40" height="40"/>&nbsp;
+  <img src="https://i0.wp.com/www.primefaces.org/wp-content/uploads/2018/05/primeng-logo.png?fit=1000%2C1000&ssl=1&w=640" title="PrimeNG" alt="PrimeNG" width="40" height="40"/>&nbsp;
 </p>
 
 ## 📚 Documentação
