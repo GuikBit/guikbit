@@ -5,13 +5,27 @@
 ### [Angular-Odonto](https://github.com/GuikBit/Angular-Odonto)
 Este projeto é parte do ecossistema OdontoSync, representando a sua identidade visual no Front-End. Desenvolvido com uma interface moderna e intuitiva, ele permite que você realize todas as operações internas do consultório de forma rápida e eficiente, com apenas alguns cliques.
 
+**Tecnologias utilizadas**
+ <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" title="Angular" alt="Angular" width="30" height="30"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="30" height="30"/>&nbsp;
+ <img src="https://www.primefaces.org/presskit/primeng-logo.png" title="PrimeNg" alt="PrimeNg" width="30" height="30"/>&nbsp;
 
 ### [API-Odonto](https://github.com/GuikBit/API-Odonto)
 Este projeto é a espinha dorsal do ecossistema OdontoSync, oferecendo a robustez e eficiência necessárias para o gerenciamento completo do sistema. Com uma arquitetura moderna e escalável, garantindo uma integração fluida tanto com a web quanto com dispositivos móveis, atendendo dentistas e pacientes.
 
+**Tecnologias utilizadas**
+ <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="Csharp" alt="Csharp" width="30" height="30"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original.svg" title="Swagger"  alt="Swagger" width="30" height="30"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="30" height="30"/>&nbsp;
 
 ### [Mobile-Odonto](https://github.com/GuikBit/Mobile-Odonto)
 O ecossistema OdontoSync também está ao seu alcance com um aplicativo móvel, projetado para pacientes, dentistas e funcionários. Ele oferece conforto, praticidade e funcionalidades exclusivas para cada tipo de usuário.
+
+**Tecnologias utilizadas**
+<img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" title="React Native"  alt="React Native" width="30" height="30"/>&nbsp;
+<img src="https://raw.githubusercontent.com/expo/expo/HEAD/.github/resources/banner.png" title="Expo"  alt="Expo" width="30" height="30"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="30" height="30"/>&nbsp;
+<img src="https://play-lh.googleusercontent.com/qE5usAL3g-iQtY20QtD3zQpOunMZxWciox78iwKSDwKi_6dX6fUK6iU1--xeaUwuhw" title="React Native Paper"  alt="React Native Paper" width="30" height="30"/>&nbsp;
 
 <!-- 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guikbit&repo=Angular-Odonto&theme=holi)](https://github.com/GuikBit/Angular-Odonto)
