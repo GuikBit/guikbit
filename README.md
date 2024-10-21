@@ -1,6 +1,6 @@
 ##   👋
 
-### [Angular-Odonto](https://github.com/GuikBit/Angular-Odonto)
+# [Angular-Odonto](https://github.com/GuikBit/Angular-Odonto)
 
 ![OdontoSync Logo]() <!-- Logo do projeto -->
 
@@ -18,35 +18,61 @@ Este projeto é parte do ecossistema **OdontoSync**, representando sua identidad
   <img src="https://i0.wp.com/www.primefaces.org/wp-content/uploads/2018/05/primeng-logo.png?fit=1000%2C1000&ssl=1&w=640" title="PrimeNG" alt="PrimeNG" width="35" height="35"/>&nbsp;
 </p>
 
-## 📚 Documentação
+### 📚 Documentação
 - Para mais detalhes, consulte a [Documentação Completa](https://link-da-documentacao.com).
 
-## 📸 Imagem da Interface
+### 📸 Imagem da Interface
 ![Interface Preview](https://link-para-imagem.com/interface.png)
 
+---
+---
 
+# [API-Odonto](https://github.com/GuikBit/API-Odonto)
 
-### [API-Odonto](https://github.com/GuikBit/API-Odonto)
-Este projeto é a espinha dorsal do ecossistema OdontoSync, oferecendo a robustez e eficiência necessárias para o gerenciamento completo do sistema. Com uma arquitetura moderna e escalável, garantindo uma integração fluida tanto com a web quanto com dispositivos móveis, atendendo dentistas e pacientes.
+![API-Odonto Logo](https://link-para-logo-api.com/api-logo.png) <!-- Substitua pelo link da logo do projeto, se disponível -->
 
-**Tecnologias utilizadas**
-<div>
+Este projeto é a **espinha dorsal** do ecossistema **OdontoSync**, oferecendo a robustez e eficiência necessárias para o gerenciamento completo do sistema. Com uma arquitetura moderna e escalável, ele garante uma integração fluida tanto com a web quanto com dispositivos móveis, atendendo dentistas e pacientes.
+
+### 🌟 Funcionalidades
+- 🔄 **Integração robusta** com dispositivos web e móveis.
+- 🏗️ **Arquitetura escalável**: permite fácil adaptação ao crescimento do sistema.
+- 💡 **Alta eficiência** no processamento e gestão de dados.
+
+### 🛠 Tecnologias utilizadas
+<div align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="Csharp" alt="Csharp" width="25" height="25"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original.svg" title="Swagger"  alt="Swagger" width="25" height="25"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="30" height="30"/>&nbsp;
 </div>
 
-### [Mobile-Odonto](https://github.com/GuikBit/Mobile-Odonto)
-O ecossistema OdontoSync também está ao seu alcance com um aplicativo móvel, projetado para pacientes, dentistas e funcionários. Ele oferece conforto, praticidade e funcionalidades exclusivas para cada tipo de usuário.
+### 📚 Documentação
+- Para mais detalhes, consulte a [Documentação da API](https://link-da-documentacao.com).
 
-**Tecnologias utilizadas**
-<div>
- <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" title="React Native"  alt="React Native" width="25" height="25"/>&nbsp;
- <img src="https://raw.githubusercontent.com/expo/expo/HEAD/.github/resources/banner.png" title="Expo"  alt="Expo" width="25" height="25"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="25" height="25"/>&nbsp;
- <img src="https://play-lh.googleusercontent.com/qE5usAL3g-iQtY20QtD3zQpOunMZxWciox78iwKSDwKi_6dX6fUK6iU1--xeaUwuhw" title="React Native Paper"  alt="React Native Paper" width="35" height="35"/>&nbsp;
+---
+---
 
+# [Mobile-Odonto](https://github.com/GuikBit/Mobile-Odonto)
+
+![Mobile-Odonto Logo](https://link-para-logo-mobile.com/mobile-logo.png) <!-- Substitua pelo link da logo do projeto, se disponível -->
+
+O ecossistema **OdontoSync** também está ao seu alcance com um aplicativo móvel, projetado para pacientes, dentistas e funcionários. Ele oferece conforto, praticidade e funcionalidades exclusivas para cada tipo de usuário.
+
+### 🌟 Funcionalidades
+- 📱 **Aplicativo intuitivo**: com interfaces específicas para pacientes, dentistas e funcionários.
+- 🔔 **Notificações em tempo real**: lembretes de consultas e atualizações.
+- 🚀 **Praticidade e acessibilidade** a partir de dispositivos móveis.
+
+### 🛠 Tecnologias utilizadas
+<div align="left">
+  <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" title="React Native"  alt="React Native" width="25" height="25"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/expo/expo/HEAD/.github/resources/banner.png" title="Expo"  alt="Expo" width="25" height="25"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="25" height="25"/>&nbsp;
+  <img src="https://play-lh.googleusercontent.com/qE5usAL3g-iQtY20QtD3zQpOunMZxWciox78iwKSDwKi_6dX6fUK6iU1--xeaUwuhw" title="React Native Paper"  alt="React Native Paper" width="35" height="35"/>&nbsp;
 </div>
+
+### 📚 Documentação
+- Para mais detalhes, consulte a [Documentação do App](https://link-da-documentacao.com).
+
 <!-- 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guikbit&repo=Angular-Odonto&theme=holi)](https://github.com/GuikBit/Angular-Odonto)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guikbit&repo=Api-Odonto&theme=holi)](https://github.com/GuikBit/API-Odonto)
