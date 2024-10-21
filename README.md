@@ -6,12 +6,12 @@
 
 Este projeto é parte do ecossistema **OdontoSync**, representando sua identidade visual no Front-End. Desenvolvido com uma interface moderna e intuitiva, ele permite realizar todas as operações internas do consultório de forma **rápida** e **eficiente**.
 
-## 🌟 Funcionalidades
+### 🌟 Funcionalidades
 - 💻 **Interface intuitiva**: Navegação simples para facilitar o uso diário.
 - 🚀 **Desempenho otimizado**: Respostas rápidas para todas as operações.
 - 🔒 **Segurança**: Garantimos a proteção dos dados sensíveis dos pacientes.
 
-## 🛠 Tecnologias utilizadas
+### 🛠 Tecnologias utilizadas
 <p align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="35" height="35"/>&nbsp;
