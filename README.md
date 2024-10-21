@@ -1,10 +1,10 @@
 ##   👋
 
-# Angular-Odonto
+### [Angular-Odonto](https://github.com/GuikBit/Angular-Odonto)
 
-![OdontoSync Logo](https://link-para-logo.com/logo.png) <!-- Logo do projeto -->
+![OdontoSync Logo]() <!-- Logo do projeto -->
 
-Este projeto é parte do ecossistema **OdontoSync**, representando sua identidade visual no Front-End. Desenvolvido com uma interface moderna e intuitiva, ele permite realizar todas as operações internas do consultório de forma **rápida** e **eficiente**, com apenas alguns cliques.
+Este projeto é parte do ecossistema **OdontoSync**, representando sua identidade visual no Front-End. Desenvolvido com uma interface moderna e intuitiva, ele permite realizar todas as operações internas do consultório de forma **rápida** e **eficiente**.
 
 ## 🌟 Funcionalidades
 - 💻 **Interface intuitiva**: Navegação simples para facilitar o uso diário.
@@ -14,7 +14,7 @@ Este projeto é parte do ecossistema **OdontoSync**, representando sua identidad
 ## 🛠 Tecnologias utilizadas
 <p align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="35" height="35"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/primeng/primeng-original.svg" title="PrimeNG" alt="PrimeNG" width="40" height="40"/>&nbsp;
 </p>
 
