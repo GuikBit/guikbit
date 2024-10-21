@@ -2,7 +2,7 @@
 
 # [Angular-Odonto](https://github.com/GuikBit/Angular-Odonto)
 
-![OdontoSync Logo]() <!-- Logo do projeto -->
+<!-- ![OdontoSync Logo]()  Logo do projeto -->
 
 Este projeto é parte do ecossistema **OdontoSync**, representando sua identidade visual no Front-End. Desenvolvido com uma interface moderna e intuitiva, ele permite realizar todas as operações internas do consultório de forma **rápida** e **eficiente**.
 
@@ -17,18 +17,18 @@ Este projeto é parte do ecossistema **OdontoSync**, representando sua identidad
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="35" height="35"/>&nbsp;
   <img src="https://i0.wp.com/www.primefaces.org/wp-content/uploads/2018/05/primeng-logo.png?fit=1000%2C1000&ssl=1&w=640" title="PrimeNG" alt="PrimeNG" width="35" height="35"/>&nbsp;
 </p>
-
+<!--
 ### 📚 Documentação
 - Para mais detalhes, consulte a [Documentação Completa](https://link-da-documentacao.com).
-
+--
 ### 📸 Imagem da Interface
 ![Interface Preview](https://link-para-imagem.com/interface.png)
-
+-->
 ---
 
 # [API-Odonto](https://github.com/GuikBit/API-Odonto)
 
-![API-Odonto Logo](https://link-para-logo-api.com/api-logo.png) <!-- Substitua pelo link da logo do projeto, se disponível -->
+<!--![API-Odonto Logo](https://link-para-logo-api.com/api-logo.png) Logo do projeto -->
 
 Este projeto é a **espinha dorsal** do ecossistema **OdontoSync**, oferecendo a robustez e eficiência necessárias para o gerenciamento completo do sistema. Com uma arquitetura moderna e escalável, ele garante uma integração fluida tanto com a web quanto com dispositivos móveis, atendendo dentistas e pacientes.
 
@@ -43,7 +43,7 @@ Este projeto é a **espinha dorsal** do ecossistema **OdontoSync**, oferecendo a
   <img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original.svg" title="Swagger"  alt="Swagger" width="25" height="25"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="30" height="30"/>&nbsp;
 </div>
-
+<!--
 ### 📚 Documentação
 - Para mais detalhes, consulte a [Documentação da API](https://link-da-documentacao.com).
 
@@ -51,7 +51,7 @@ Este projeto é a **espinha dorsal** do ecossistema **OdontoSync**, oferecendo a
 
 # [Mobile-Odonto](https://github.com/GuikBit/Mobile-Odonto)
 
-![Mobile-Odonto Logo](https://link-para-logo-mobile.com/mobile-logo.png) <!-- Substitua pelo link da logo do projeto, se disponível -->
+<!--  ![Mobile-Odonto Logo](https://link-para-logo-mobile.com/mobile-logo.png) Logo do projeto -->
 
 O ecossistema **OdontoSync** também está ao seu alcance com um aplicativo móvel, projetado para pacientes, dentistas e funcionários. Ele oferece conforto, praticidade e funcionalidades exclusivas para cada tipo de usuário.
 
@@ -67,20 +67,21 @@ O ecossistema **OdontoSync** também está ao seu alcance com um aplicativo móv
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="25" height="25"/>&nbsp;
   <img src="https://play-lh.googleusercontent.com/qE5usAL3g-iQtY20QtD3zQpOunMZxWciox78iwKSDwKi_6dX6fUK6iU1--xeaUwuhw" title="React Native Paper"  alt="React Native Paper" width="30" height="30"/>&nbsp;
 </div>
-
+<!--
 ### 📚 Documentação
 - Para mais detalhes, consulte a [Documentação do App](https://link-da-documentacao.com).
+- 
+### 📸 Imagem da Interface
+![Interface Preview](https://link-para-imagem.com/interface.png)
+-->
+
 
 <!-- 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guikbit&repo=Angular-Odonto&theme=holi)](https://github.com/GuikBit/Angular-Odonto)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guikbit&repo=Api-Odonto&theme=holi)](https://github.com/GuikBit/API-Odonto)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guikbit&repo=Mobile-Odonto&theme=holi)](https://github.com/GuikBit/Mobile-Odonto)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guikbit&repo=guikbit.github.io&theme=holi)](https://github.com/GuikBit/guikbit.github.io)
--->
 
-
-
-<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guikbit&layout=compact&theme=holi)](https://github.com/GuikBit/)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guikbit&show_icons=true&theme=radical)
@@ -89,24 +90,6 @@ O ecossistema **OdontoSync** também está ao seu alcance com um aplicativo móv
 ![Node.js Badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Profile views](https://komarev.com/ghpvc/?username=guikbit&color=blue)
-
-
-
-
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300">
-
-
-
-
-## 🚀 Projetos
-
-### [API-Odonto](https://github.com/GuikBit/API-Odonto)
-Uma API para controle odontológico desenvolvida com C# e EntityFrameworkCore.
-
-
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300">
-
--->
 
 ![Snake animation](https://github.com/GuikBit/GuikBit/blob/gh-pages/github-snake-dark.svg)
 <!--
